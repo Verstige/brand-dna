@@ -1,0 +1,19 @@
+{
+  "name": "brand-dna",
+  "description": "Capture and store core brand DNA: identity, audience, positioning, values, and voice. The foundation skill that the logo, deck, and content skills all read from.",
+  "owner": {
+    "name": "Julylan Johnson",
+    "url": "https://github.com/Verstige"
+  },
+  "metadata": {
+    "description": "Capture and store core brand DNA: identity, audience, positioning, values, and voice. The foundation skill that the logo, deck, and content skills all read from.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "brand-dna",
+      "source": "./plugins/brand-dna",
+      "description": "Capture and store core brand DNA: identity, audience, positioning, values, and voice. The foundation skill that the logo, deck, and content skills all read from."
+    }
+  ]
+}
